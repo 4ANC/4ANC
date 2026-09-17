@@ -3,10 +3,9 @@
 
 <p align="center">  𝘈𝘷𝘦 𝘋𝘰𝘮𝘪𝘯𝘶𝘴 𝘕𝘰𝘹
   
-<p align="center">  (ʜᴀɪʟ, ʟᴏʀᴅ ᴏꜰ ɴɪɢʜᴛ) 𝘛𝘩𝘦 𝘞𝘢𝘳𝘩𝘢𝘮𝘮𝘦𝘳 𝘎𝘶𝘺 
+<p align="center">  (ʜᴀɪʟ, ʟᴏʀᴅ ᴏꜰ ɴɪɢʜᴛ)
 
-<p align="center"> 
-<p align="center"> 
+<p align="center"> ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
   <p align="center"> 𝘛𝘩𝘦 𝘞𝘢𝘳𝘩𝘢𝘮𝘮𝘦𝘳 𝘎𝘶𝘺 
 
