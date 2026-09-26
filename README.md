@@ -20,5 +20,6 @@
  <p align="center">  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎   ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ʜᴇᴀᴠʏ ᴋɪɴ: ɢᴇɴᴋɪɴꜱ ╱ ɢᴀʙʀɪᴇʟ ╱ ᴋöɴɪɢ  
 
 
- <p align="center"><img width="97" height="57" alt="tumblr_ae0f427b8b57a3855847bc19a5f28175_e11d5093_100" src="https://github.com/user-attachments/assets/95635193-0d70-4ade-a752-e7d4eab98067" />
+ <p align="center"><img width="200" height="212" alt="200px-GabrielCustomRender" src="https://github.com/user-attachments/assets/9cdf5fc9-6c02-45d0-81c7-22181386bc70" />
+
 
