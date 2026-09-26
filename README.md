@@ -20,6 +20,6 @@
  <p align="center">  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎   ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ʜᴇᴀᴠʏ ᴋɪɴ: ɢᴇɴᴋɪɴꜱ ╱ ɢᴀʙʀɪᴇʟ ╱ ᴋöɴɪɢ  
 
 
- <p align="center"><img width="200" height="212" alt="200px-GabrielCustomRender" src="https://github.com/user-attachments/assets/9cdf5fc9-6c02-45d0-81c7-22181386bc70" />
+ <p align="left"><img width="200" height="212" alt="200px-GabrielCustomRender" src="https://github.com/user-attachments/assets/9cdf5fc9-6c02-45d0-81c7-22181386bc70" />
 
 
