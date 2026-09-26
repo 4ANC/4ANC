@@ -1,3 +1,7 @@
+<img width="150" height="20" alt="tumblr_49dc3468b9aff4a45eac6b4be52a5b94_e7f15367_250" src="https://github.com/user-attachments/assets/0026bc4e-a634-4a66-b938-35b01be57bd9" />
+<img width="150" height="20" alt="tumblr_49dc3468b9aff4a45eac6b4be52a5b94_e7f15367_250" src="https://github.com/user-attachments/assets/bb9a4feb-2290-4809-aeab-d36ade61e54e" />
+
+
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 
@@ -20,6 +24,6 @@
  <p align="center">  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎   ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ʜᴇᴀᴠʏ ᴋɪɴ: ɢᴇɴᴋɪɴꜱ ╱ ɢᴀʙʀɪᴇʟ ╱ ᴋöɴɪɢ  
 
 
- <p align="left"><img width="200" height="212" alt="200px-GabrielCustomRender" src="https://github.com/user-attachments/assets/9cdf5fc9-6c02-45d0-81c7-22181386bc70" />
+ <p align="center">
 
 
