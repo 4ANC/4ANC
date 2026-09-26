@@ -21,7 +21,7 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
- <p align="center"> <img width="250" height="120" alt="tumblr_49dc3468b9aff4a45eac6b4be52a5b94_e7f15367_250" src="https://github.com/user-attachments/assets/bb9a4feb-2290-4809-aeab-d36ade61e54e" />
+ <p align="center"> <img width="350" height="120" alt="tumblr_49dc3468b9aff4a45eac6b4be52a5b94_e7f15367_250" src="https://github.com/user-attachments/assets/bb9a4feb-2290-4809-aeab-d36ade61e54e" />
 
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
